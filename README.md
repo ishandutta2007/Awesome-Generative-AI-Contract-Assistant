@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Contract-Assistant?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-AI-Contract-Assistant?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-AI-Contract-Assistant?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Assistant/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-AI-Contract-Assistant/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
@@ -58,9 +58,9 @@ Below is a curated comparison of leading commercial Generative AI contract assis
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore top-tier open-source projects, local-first legal agents, and self-hosted contract intelligence frameworks. Sorted in descending order by GitHub star count.
+Explore top-tier open-source projects, local-first legal agents, and self-hosted contract intelligence frameworks. Sorted in descending order by GitHub Stars_Count.
 
-| Project | GitHub Stars | Description |
+| Project | GitHub_Stars | Description |
 |:---|:---|:---|
 | **[ai-legal-claude](https://github.com/zubair-trabzada/ai-legal-claude)** 🧠 | [![Stars](https://img.shields.io/github/stars/zubair-trabzada/ai-legal-claude?style=social&color=white)](https://github.com/zubair-trabzada/ai-legal-claude/stargazers) | **Comprehensive AI Legal Assistant skill suite.** Powers 14 specialized skills across 5 parallel agents for contract review, risk scoring, NDA generation, compliance verification, and negotiation strategy with automated PDF report generation. |
 | **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** 📄 | [![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) | **Open document intelligence platform and DMS for the agentic world.** Features layout-faithful PDF annotations, structured legal data extraction via LLM queries, version-controlled contract corpuses, and human-in-the-loop citation graphs. |
@@ -122,3 +122,12 @@ If you find this curated ecosystem directory helpful, please consider supporting
 ## 📈 Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Generative-AI-Contract-Assistant&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Generative-AI-Contract-Assistant&type=date&legend=top-left)
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Generative-AI-Contract-Assistant&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Generative-AI-Contract-Assistant_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Generative-AI-Contract-Assistant_growth.svg">
+  </picture>
+</a>
