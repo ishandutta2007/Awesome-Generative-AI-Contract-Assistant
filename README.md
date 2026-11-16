@@ -1,6 +1,6 @@
 # Awesome-Generative-AI-Contract-Assistant
 
-# Top Generative AI Contract Assistant Ecosystem
+## Top Generative AI Contract Assistant Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Contract Drafting, Redlining & Self-Hosted Legal Reasoning Engines*  
